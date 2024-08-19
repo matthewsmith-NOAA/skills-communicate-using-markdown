@@ -1,3 +1,5 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/matthewsmith-NOAA/skills-communicate-using-markdown)
+
 # This is an example of the largest header
 ## Second
 ### Third
@@ -42,5 +44,25 @@ mtcars |> filter(mpg > 20)
 ### how to include a link in the text
 
 [This link is freakin' sweet](https://github.com/matthewsmith-NOAA) It takes you to my github page
-   
+
+### emojis
+images are added using a colon followed by text that will auto searcha s you type
+
+🐟
+
+🖥️
+
+### change font style
+*italicized text*
+
+**bold text**
+
+***bold and italicized***
+
+### add shields to my github page
+
+[This link takes you to the shields page](https://shields.io/badges/git-hub-last-commit)
+
+There is example of the shield code at the top of the page
+
   

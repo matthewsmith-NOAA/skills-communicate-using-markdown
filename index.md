@@ -21,3 +21,22 @@ library(dplyr)
 mtcars |> filter(mpg > 20)
 
 ```
+
+## Add a list to check off
+
+- [x] list item 1 <!--- add the x to check off an item. must have space between - and [ --->
+- [x] list item 2
+- [ ] list item 3
+
+### add regular list
+- list item 1
+- list item 2
+- list item 3
+
+1. list item 1
+2. list item 2
+3. list item 3
+
+
+  
+  

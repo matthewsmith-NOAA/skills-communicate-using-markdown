@@ -39,6 +39,8 @@ mtcars |> filter(mpg > 20)
 2. list item 2
 3. list item 3
 
+### how to include a link in the text
 
-  
+[This link is freakin' sweet](https://github.com/matthewsmith-NOAA) It takes you to my github page
+   
   

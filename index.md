@@ -24,7 +24,9 @@ mtcars |> filter(mpg > 20)
 
 ## Add a list to check off
 
-- [x] list item 1 <!--- add the x to check off an item. must have space between - and [ --->
+<!--- add the x to check off an item. must have space between - and [ --->
+
+- [x] list item 1 
 - [x] list item 2
 - [ ] list item 3
 

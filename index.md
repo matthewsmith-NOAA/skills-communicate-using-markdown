@@ -5,4 +5,4 @@
 ##### Fifth
 ###### Smallest
 
-This is an example of the difffernt header sizes in the markdown language
+This is an example of the diffferent header sizes in the markdown language

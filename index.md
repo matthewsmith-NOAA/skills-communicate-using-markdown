@@ -7,6 +7,8 @@
 
 This is an example of the diffferent header sizes in the markdown language
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 ![Image of saketocat](https://octodex.github.com/images/saketocat.png)
 
 <!--- inline comment that won't show up --->
